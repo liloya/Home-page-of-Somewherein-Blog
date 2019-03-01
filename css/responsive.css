@@ -1,0 +1,11 @@
+@media screen and (max-width:767px) {
+    .carousel-caption h1{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:470px) {
+    .slide{
+        display: none;
+    }
+}
